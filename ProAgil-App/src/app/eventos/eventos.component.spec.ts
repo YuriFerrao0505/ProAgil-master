@@ -4,7 +4,7 @@ import { By } from '@angular/platform-browser';
 import { DebugElement } from '@angular/core';
 
 import { EventosComponent } from './eventos.component';
-
+//oie
 describe('EventosComponent', () => {
   let component: EventosComponent;
   let fixture: ComponentFixture<EventosComponent>;
